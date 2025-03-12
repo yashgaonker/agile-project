@@ -1,0 +1,47 @@
+*{
+    margin: 0 auto;
+    padding: 0%;
+   
+    
+  
+
+}
+.maindiv{
+    width: 800px;
+    height: 800px;
+    background-color: white;
+  margin-top: 80px;
+  border: 2px solid black;
+  /* display: flex;
+  align-items: center;
+  justify-content:center ; */
+
+  
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.submit{
+display: flex;
+justify-content: center;
+align-items: center;
+/* height: 200px; */
+width: 100%;
+mar
+}
+.password{
+    display: flex;
+justify-content: center;
+align-items: center;
+/* height: px; */
+width: 100%;
+}
+.submit-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 20px; */
+    width: 100%;
+}
